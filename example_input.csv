@@ -1,0 +1,6 @@
+patient_id,maternal_age,bmi,gestational_age,gravidity,preterm_labor,pprom,effacement,cervical_dilation
+A,24,23.0,28.00,1,1,1,5,4.0
+B,32,31.0,34.00,3,0,0,1,0.0
+C,28,26.5,30.43,2,1,0,3,2.0
+D,19,22.1,26.14,1,1,1,4,3.0
+E,36,34.8,35.71,3,0,0,2,1.0
